@@ -1,4 +1,5 @@
 {
+  "exclude": ["**/*.spec.ts", "./dist/**/*"],
   "compilerOptions": {
     "target": "ES2018",
     "module": "commonjs",
